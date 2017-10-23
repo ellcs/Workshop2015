@@ -4,3 +4,5 @@ http://cs.lmu.edu/~ray/notes/nasmtutorial/
 # Mnemonics - intel ASM
 http://www.mathemainzel.info/files/x86asmref.html#lea
 
+# GDB cheat sheet
+http://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
