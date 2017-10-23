@@ -1,0 +1,4 @@
+objdump
+hexer
+gdb
+nasm

@@ -1,0 +1,5 @@
+# print memory
+x/500ux <addr>
+
+# set intel flavor
+set disassembly-flavor intel

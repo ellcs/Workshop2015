@@ -1,0 +1,6 @@
+# Nasm tutorial
+http://cs.lmu.edu/~ray/notes/nasmtutorial/
+
+# Mnemonics - intel ASM
+http://www.mathemainzel.info/files/x86asmref.html#lea
+
